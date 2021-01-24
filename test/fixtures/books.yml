@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: PrimerTitulo
+  category: Categoria1
+  author: Autor1
+  status: Status1
+  person: Persona1
+  loan: 2021-01-24
+  return: 2021-01-24
+
+two:
+  title: SegundoTitulo
+  category: Categoria2
+  author: Autor2
+  status: Status2
+  person: Persona2
+  loan: 2021-01-24
+  return: 2021-01-24
